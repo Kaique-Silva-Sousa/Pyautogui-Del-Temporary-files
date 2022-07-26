@@ -1,2 +1,2 @@
 # Pyautogui-Del-Temporary-files
-simple automation to clean temporary auto files using pyautogui
+Simple script for delete temporary files using pyautogui.
